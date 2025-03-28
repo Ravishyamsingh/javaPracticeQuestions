@@ -7,6 +7,8 @@ public class AreaOfRectangle {
         length=in.nextDouble();
         System.out.println("Enter the Width: ");
         width=in.nextDouble();
+        
+        // Check if the subpart length is greater than the string length
         Arearectangle=length*width;
         System.out.println("Area of rectangle:"+Arearectangle);
     }
