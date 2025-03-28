@@ -14,7 +14,8 @@ public class AddWithoutOperators {
         while (y != 0) {
             int carry = x & y; // Calculate the carry by bitwise AND operation between x and y
             x = x ^ y; // Calculate the sum without considering the carry by bitwise XOR operation
-            y = carry << 1; // Calculate the carry for the next iteration by shifting it left by one position
+            y = carry << 1; 
+            // Calculate the carry for the next iteration by shifting it left by one position
         }
 
         System.out.print("Sum: " + x); // Print the sum of the two numbers
