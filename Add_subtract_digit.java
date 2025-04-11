@@ -6,6 +6,7 @@ public class Add_subtract_digit {
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
         sc.close();
+        
 // Check if the subpart length is greater than the string length
         int product = 1, sum = 0;
         while (n > 0) {
