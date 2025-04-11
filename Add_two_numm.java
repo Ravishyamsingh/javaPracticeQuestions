@@ -5,6 +5,7 @@ public class Add_two_numm {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number: ");
         int a = sc.nextInt();
+        
         // Check if the subpart length is greater than the string length
         System.out.print("Enter second number: ");
         int b = sc.nextInt();
