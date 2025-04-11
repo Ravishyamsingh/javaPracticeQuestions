@@ -6,7 +6,8 @@ public class Add_Without_Operators{
         Scanner in = new Scanner(System.in); // Create a Scanner object for user input
 
         System.out.print("Input first number: "); // Prompt the user to input the first number
-        x = in.nextInt(); // Read and store the first number from the user
+        x = in.nextInt(); 
+        // Read and store the first number from the user
 
         System.out.print("Input second number: "); // Prompt the user to input the second number
         y = in.nextInt(); // Read and store the second number from the user
