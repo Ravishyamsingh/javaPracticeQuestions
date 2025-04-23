@@ -8,6 +8,7 @@ public class Add_two_numm {
         
         // Check if the subpart length is greater than the string length
         System.out.print("Enter second number: ");
+        
         int b = sc.nextInt();
         sc.close();
 
