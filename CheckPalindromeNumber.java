@@ -5,6 +5,8 @@ public class CheckPalindromeNumber {
         int num;
 
         // Create a Scanner object for user input
+
+        // Create a Scanner object for user input
         Scanner in = new Scanner(System.in);
 
         // Prompt the user for a positive integer
