@@ -3,9 +3,13 @@ import java.util.Scanner;
 public class CheckPowerof4_ {
     public static void main(String[] arg) {
         int test = 0; // Initialize a variable 'test' to 0
-        Scanner in = new Scanner(System.in); // Create a Scanner object for user input
+        Scanner in = new Scanner(System.in); 
+        
+        // Create a Scanner object for user input
 
-        System.out.print("Input a positive integer: "); // Prompt the user to input a positive integer
+        System.out.print("Input a positive integer: "); 
+        
+        // Prompt the user to input a positive integer
 
         int n = in.nextInt(); // Read the user's input as an integer
 
