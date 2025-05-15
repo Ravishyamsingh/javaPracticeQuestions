@@ -4,6 +4,8 @@ public class Code_Execute_Time_Nanosec {
     public static void main(String[] args) {
         long startTime = System.nanoTime();
 
+        // Create a Scanner object for user input// Create a Scanner object for user input
+        // Create a Scanner object for user input
         // Sample program: Display the first 10 natural numbers.
         int i;
         System.out.println("The first 10 natural numbers are:\n");
