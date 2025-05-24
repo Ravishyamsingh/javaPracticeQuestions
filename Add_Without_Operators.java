@@ -2,8 +2,11 @@ import java.util.Scanner;
 
 public class Add_Without_Operators{
     public static void main(String[] arg) {
-        int x, y; // Declare two integer variables, 'x' and 'y'
-        Scanner in = new Scanner(System.in); // Create a Scanner object for user input
+        int x, y; 
+        // Declare two integer variables, 'x' and 'y'
+        
+        Scanner in = new Scanner(System.in);
+        // Create a Scanner object for user input
 
         System.out.print("Input first number: "); 
         // Prompt the user to input the first number
