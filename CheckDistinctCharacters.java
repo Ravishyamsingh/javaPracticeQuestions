@@ -5,11 +5,14 @@ public  class CheckDistinctCharacters {
      * @return: a boolean
      */
     public static boolean is_Unique_str(String str) {
+        
         // Convert the input string to a character array
-        char[] chars = str.toCharArray();
+        char[] chars = str.toCharArray()
+            
 
         // Sort the character array in lexicographical order
         Arrays.sort(chars);
+        
 
         // Check for repeated characters in the sorted array
         for (int i = 1; i < chars.length; ++i) {
