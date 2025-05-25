@@ -6,8 +6,10 @@ public class Che10Exce20_Array {
         int result = 0;
         System.out.println("Original Array: "+Arrays.toString(array_nums));
 
-        int ctr1 = 0; // Initialize a counter to count occurrences of value 10
-        int ctr2 = 0; // Initialize a counter to count occurrences of value 20
+        int ctr1 = 0; 
+        // Initialize a counter to count occurrences of value 10
+        int ctr2 = 0
+            // Initialize a counter to count occurrences of value 20
 
         for(int i = 0; i < array_nums.length; i++) {
             if(array_nums[i] == 10)
