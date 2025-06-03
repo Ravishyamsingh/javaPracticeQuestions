@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class MergeTwoSortedArrays {
@@ -5,7 +6,6 @@ public class MergeTwoSortedArrays {
         // Declare two sorted integer arrays, array1 and array2
         // array1 has 'm' elements but is large enough to accommodate 'm+n' elements
         // array2 has 'n' elements
-
         // Declaration and instantiation of array1
         int array1[] = new int[8];
 
