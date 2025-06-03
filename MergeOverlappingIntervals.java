@@ -6,7 +6,6 @@ public class MergeOverlappingIntervals
     {
         // Create an ArrayList of Interval objects
         ArrayList<Interval> x = new ArrayList<>();
-
         // Add intervals to the ArrayList
         x.add(new Interval(1, 3));
         x.add(new Interval(2, 6));
