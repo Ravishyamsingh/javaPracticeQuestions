@@ -1,5 +1,5 @@
 import java.util.*;
-
+import java.util.*;
 public class Arr_Aft_Last_ten{
     public static void main(String[] args) {
         int[] array_nums = {11, 10, 13, 10, 45, 20, 33, 53};
