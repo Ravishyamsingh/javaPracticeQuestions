@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 import java.util.*;
 public class Arra_Befo_Last_ten {
