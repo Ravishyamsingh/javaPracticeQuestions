@@ -12,6 +12,9 @@ public class Arra_Befo_Last_ten {
         int l = 0;
         int[] new_array;
 
+
+        
+
         // Find the first occurrence of 10 in the array
         while(array_nums[l] != 10)
             l++;
