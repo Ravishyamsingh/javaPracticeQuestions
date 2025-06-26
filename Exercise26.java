@@ -2,7 +2,10 @@ import java.util.Scanner;
 
 public class Exercise26 {
     public static void main(String[] args) {
-        // Create a Scanner object to read input from the user
+        // Create a Scanner object to read input from the user\
+
+
+        
         Scanner in = new Scanner(System.in);
 
         // Define an array to map octal digits to their binary equivalents
