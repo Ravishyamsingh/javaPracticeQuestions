@@ -3,6 +3,8 @@ import java.util.*;
 public class CreateStringArray0toN {
     public static void main(String[] args) {
         // Define the number of elements in the array
+
+        
         int n = 5;
 
         // Create an array of strings with n elements
