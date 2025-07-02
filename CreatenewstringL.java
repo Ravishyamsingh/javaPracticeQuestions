@@ -6,6 +6,12 @@ public class CreatenewstringL {
         String str1 = "Python";
         String str2 = "";
 
+
+
+
+
+
+        
         // Get the length of the second string
         int length2 = str2.length();
 
