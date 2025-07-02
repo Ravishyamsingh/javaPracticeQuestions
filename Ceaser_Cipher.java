@@ -7,7 +7,10 @@ public class Ceaser_Cipher {
         for (int i=0; i < text.length(); i++)
         {
             char c = chars[i];
-            
+
+
+
+         
             if (c >= 32 && c <= 127)
                 
             {
