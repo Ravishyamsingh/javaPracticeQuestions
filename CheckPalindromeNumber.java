@@ -4,10 +4,15 @@ public class CheckPalindromeNumber {
     public static void main(String[] args) {
         int num;
 
+
+
+        
         // Create a Scanner object for user input
 
         // Create a Scanner object for user input
         Scanner in = new Scanner(System.in);
+
+        
 
         // Prompt the user for a positive integer
         System.out.print("Input a positive integer: ");
