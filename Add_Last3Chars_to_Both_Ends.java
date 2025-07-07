@@ -5,10 +5,7 @@ public class Add_Last3Chars_to_Both_Ends{
         String string1 = "Python";
 
         // Define a subpart length
-        int slength = 3;
-        
-
-        
+        int slength = 3;   
 // Check if the subpart length is greater than the string length
         // Check if the subpart length is greater than the string length
         if (slength > string1.length()) {
