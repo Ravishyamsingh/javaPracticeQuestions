@@ -1,7 +1,5 @@
 import java.util.*;
 import java.util.Scanner;
-
-
 public class AddWithoutOperators {
     public static void main(String[] arg) {
         int x, y; // Declare two integer variables, 'x' and 'y'
