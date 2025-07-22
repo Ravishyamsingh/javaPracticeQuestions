@@ -1,5 +1,3 @@
-
-
 import java.util.*;
 public class Check_Adjacent_10s_20s {
     public static void main(String[] args) {
