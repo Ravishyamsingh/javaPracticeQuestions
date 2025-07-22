@@ -3,9 +3,6 @@ import java.util.*;
 public class CheckPalindromeNumber {
     public static void main(String[] args) {
         int num;
-
-
-
         
         // Create a Scanner object for user input
 
