@@ -4,8 +4,6 @@ import java.util.Scanner;
 public class AreaEquilateralTriangle {
     public static void main(String[] args) {
         Scanner in= new Scanner(System.in);
-
-
         
         
         double side,Area;
