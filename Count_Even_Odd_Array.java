@@ -2,8 +2,6 @@
 
 import java.util.*;
 
-
-
 import java.util.*;
 
 public class Count_Even_Odd_Array {
