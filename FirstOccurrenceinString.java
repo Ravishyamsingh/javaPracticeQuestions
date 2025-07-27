@@ -22,6 +22,9 @@ public class FirstOccurrenceinString {
             return 0; // Return 0 if 'target' is empty or equal to 'source'
         }
 
+
+        
+
         int i = 0;
         int last = source.length() - target.length() + 1;
 
