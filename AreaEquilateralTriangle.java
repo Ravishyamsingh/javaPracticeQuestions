@@ -17,5 +17,7 @@ public class AreaEquilateralTriangle {
         //√3/4 × (side)²
         System.out.println(Area);
 
+
+        
     }
 }
