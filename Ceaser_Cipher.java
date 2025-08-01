@@ -9,8 +9,6 @@ public class Ceaser_Cipher {
         {
             char c = chars[i];
 
-
-
          
             if (c >= 32 && c <= 127)
                 
