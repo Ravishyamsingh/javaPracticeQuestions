@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 public class Collatz_Conjecture_Simulation {
