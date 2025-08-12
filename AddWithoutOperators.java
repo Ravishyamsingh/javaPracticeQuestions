@@ -1,5 +1,3 @@
-
-
 import java.util.*;
 import java.util.Scanner;
 public class AddWithoutOperators {
@@ -29,3 +27,4 @@ public class AddWithoutOperators {
         System.out.print("\n"); // Print a new line
     }
 }
+
