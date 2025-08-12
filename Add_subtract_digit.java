@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 
@@ -25,3 +26,4 @@ public class Add_subtract_digit {
         System.out.println("Result: " + (product - sum));
     }
 }
+
