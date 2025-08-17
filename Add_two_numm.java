@@ -1,6 +1,3 @@
-
-
-
 import java.util.*;
 import java.util.Scanner;
 
@@ -19,4 +16,5 @@ public class Add_two_numm {
         System.out.println("Sum: " + (a + b));
     }
 }
+
 
