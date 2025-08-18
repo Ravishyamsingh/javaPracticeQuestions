@@ -1,4 +1,3 @@
-
 import java.util.Arrays;
 
 public class NewArraywithEndsofTwoArrays {
@@ -20,3 +19,4 @@ public class NewArraywithEndsofTwoArrays {
         System.out.println("New Array: " + Arrays.toString(array_new));
     }
 }
+
