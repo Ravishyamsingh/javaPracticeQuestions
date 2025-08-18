@@ -1,5 +1,7 @@
 
 
+
+
 import java.lang.*;
 
 public class FirstLastinArray {
@@ -14,4 +16,5 @@ public class FirstLastinArray {
         System.out.println(result);
     }
 }
+
 
