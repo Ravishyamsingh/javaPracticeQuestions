@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class HexaToDec {
@@ -10,3 +12,4 @@ public class HexaToDec {
         System.out.println(n1);
     }
 }
+
