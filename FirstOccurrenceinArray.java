@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 public class FirstOccurrenceinArray {
     public static void main(String[] args) {
@@ -34,3 +36,4 @@ public class FirstOccurrenceinArray {
         System.out.print("Position of " + target + " is " + index);
     }
 }
+
