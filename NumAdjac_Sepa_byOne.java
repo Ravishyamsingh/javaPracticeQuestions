@@ -1,3 +1,5 @@
+
+
 import java.util.*;
 
 public class NumAdjac_Sepa_byOne {
@@ -29,3 +31,4 @@ public class NumAdjac_Sepa_byOne {
         System.out.printf("\n"); // Add a newline character for formatting
     }
 }
+
