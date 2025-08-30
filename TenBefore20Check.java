@@ -1,3 +1,6 @@
+
+
+
 import java.util.*;
 
 public class TenBefore20Check {
@@ -27,3 +30,4 @@ public class TenBefore20Check {
         System.out.printf("\n"); // Add a newline character for formatting
     }
 }
+
