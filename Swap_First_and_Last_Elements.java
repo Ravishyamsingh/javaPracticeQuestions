@@ -1,6 +1,3 @@
-
-
-
 import java.util.Arrays;
 
 public class Swap_First_and_Last_Elements {
@@ -22,3 +19,4 @@ public class Swap_First_and_Last_Elements {
         System.out.println("New array after swapping the first and last elements: " + Arrays.toString(array_nums));
     }
 }
+
