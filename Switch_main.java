@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class Switch_main {
@@ -83,4 +85,5 @@ public class Switch_main {
 //        }
 
     }
+
 }
