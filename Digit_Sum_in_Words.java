@@ -1,9 +1,9 @@
-
-
 import java.io.*;
+
 
 public class Digit_Sum_in_Words {
     public static void main(String[] args) {
+        
         // Create a BufferedReader to read input from the user
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -52,3 +52,4 @@ public class Digit_Sum_in_Words {
         }
     }
 }
+
