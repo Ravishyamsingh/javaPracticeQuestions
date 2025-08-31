@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 import java.util.*;
 public  class CheckDistinctCharacters {
     /**
@@ -41,4 +45,5 @@ public  class CheckDistinctCharacters {
         System.out.println("String has all unique characters: " + is_Unique_str(str));
     }
 }
+
 
