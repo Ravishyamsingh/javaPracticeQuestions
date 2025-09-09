@@ -1,3 +1,6 @@
+
+
+
 import java.util.*;
 import java.util.*;
 public class AreaOfRectangle {
@@ -14,3 +17,4 @@ public class AreaOfRectangle {
         System.out.println("Area of rectangle:"+Arearectangle);
     }
 }
+
