@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 
 public class TrailingZerosinFactorial {
@@ -16,3 +19,4 @@ public class TrailingZerosinFactorial {
         System.out.printf("\n"); // Print a new line
     }
 }
+
