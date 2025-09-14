@@ -1,3 +1,5 @@
+
+ // Print a message indicating the display of the current system environment
 import java.lang.*;
 
 public class System_Environment_and_Properties {
@@ -15,3 +17,4 @@ public class System_Environment_and_Properties {
         System.out.println(System.getProperties());
     }
 }
+
