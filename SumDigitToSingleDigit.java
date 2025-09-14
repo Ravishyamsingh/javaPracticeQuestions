@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 
 public class SumDigitToSingleDigit {
@@ -21,3 +24,4 @@ public class SumDigitToSingleDigit {
         System.out.println("\n");
     }
 }
+
