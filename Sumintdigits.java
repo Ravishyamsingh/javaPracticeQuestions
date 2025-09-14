@@ -1,4 +1,8 @@
+
+
+
 import java.util.Scanner;
+
 
 public class Sumintdigits {
     public static void main(String[] args) {
@@ -14,3 +18,4 @@ public class Sumintdigits {
         System.out.println("Sum of the integer digits = " + sum);
     }
 }
+
