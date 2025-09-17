@@ -1,8 +1,3 @@
-
-
-
-
-
 import java.util.Scanner;
 
 public class CommissionCalculator {
@@ -22,3 +17,4 @@ public class CommissionCalculator {
         scanner.close();
     }
 }
+
