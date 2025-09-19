@@ -1,3 +1,8 @@
+
+
+
+
+
 import java.util.Scanner;
 
 public class FirstOccurrenceinString {
@@ -52,3 +57,4 @@ public class FirstOccurrenceinString {
         return -1;
     }
 }
+
