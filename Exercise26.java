@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class Exercise26 {
@@ -34,3 +36,4 @@ public class Exercise26 {
         System.out.print("Equivalent binary number: " + binary_num + "\n");
     }
 }
+
