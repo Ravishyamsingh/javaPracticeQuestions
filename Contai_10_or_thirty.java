@@ -1,3 +1,7 @@
+
+
+
+
 import java.util.*;
 
 import java.io.*;
@@ -21,3 +25,4 @@ public class Contai_10_or_thirty {
             System.out.printf(String.valueOf(true)); // If the result is not 1, print true
     }
 }
+
