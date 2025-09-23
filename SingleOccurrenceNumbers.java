@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class SingleOccurrenceNumbers{
     public static void main(String[] args) {
         // Define an array of integers
@@ -7,15 +6,12 @@ public class SingleOccurrenceNumbers{
 
         // Declare a variable to store the result
         int result;
-
         // Display the source array
         System.out.println("Source Array : " + Arrays.toString(nums));
-
         // Calculate and display the number that appears only once
         result = getSingleNumber(nums);
         System.out.println("\n" + result + " appears only once.");
     }
-
     public static int getSingleNumber(int[] nums) {
         // Check if the array is null or empty
         if (nums == null || nums.length == 0) {
@@ -34,3 +30,4 @@ public class SingleOccurrenceNumbers{
         return result;
     }
 }
+
