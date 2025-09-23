@@ -3,7 +3,6 @@ public class SearchValueinMatrix {
     public static void main(String[] args) {
         // Initialize the 'target' value for searching
         int target = 0;
-
         // Create a 3x3 matrix and populate it with values
         int[][] matrix = new int[3][3];
         for (int row = 0; row < 3; row++) {
@@ -11,7 +10,6 @@ public class SearchValueinMatrix {
                 matrix[row][col] = (1 + row * 3 + col);
             }
         }
-
         // Display the contents of the matrix
         for (int row = 0; row < 3; row++) {
             for (int col = 0; col < 3; col++) {
@@ -58,3 +56,4 @@ public class SearchValueinMatrix {
         return false;
     }
 }
+
