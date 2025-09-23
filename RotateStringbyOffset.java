@@ -1,10 +1,8 @@
 import java.util.*;
-
 public class RotateStringbyOffset {
     public static void main(String[] arg) {
         // Input string
         String str = "abcdef";
-
         // Convert the string to a character array
         char[] A = str.toCharArray();
 
@@ -41,3 +39,4 @@ public class RotateStringbyOffset {
         }
     }
 }
+
