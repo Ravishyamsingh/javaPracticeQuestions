@@ -1,16 +1,12 @@
 import java.util.*;
-
 public class SingleOccurrenceNumber {
     public static void main(String[] args) {
         // Define an array of integers
         int nums[] = {10, 20, 10, 20, 30, 40, 40, 30, 50};
-
         // Declare a variable to store the result
         int result;
-
         // Display the source array
         System.out.println("Source Array : " + Arrays.toString(nums));
-
         // Calculate and display the number that appears only once
         result = getSingleNumber(nums);
         System.out.println("\n" + result + " appears only once.");
@@ -34,3 +30,4 @@ public class SingleOccurrenceNumber {
         return result;
     }
 }
+
