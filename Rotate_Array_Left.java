@@ -1,10 +1,8 @@
 import java.util.Arrays;
-
 public class Rotate_Array_Left {
     public static void main(String[] args) {
         // Define an integer array, array_nums
         int[] array_nums = {20, 30, 40};
-
         // Print the elements of the original array
         System.out.println("Original Array: " + Arrays.toString(array_nums));
 
@@ -15,3 +13,4 @@ public class Rotate_Array_Left {
         System.out.println("Rotated Array: " + Arrays.toString(new_array_nums));
     }
 }
+
