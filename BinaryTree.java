@@ -1,8 +1,3 @@
-
-
-
-
-
 class Node
 {
     int key;
@@ -68,4 +63,5 @@ class BinaryTree
         tree.print_Inorder();
     }
 }
+
 
