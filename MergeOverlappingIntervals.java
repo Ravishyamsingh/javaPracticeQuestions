@@ -12,6 +12,7 @@ public class MergeOverlappingIntervals
         x.add(new Interval(8, 10));
         x.add(new Interval(15, 18));
         x.add(new Interval(17, 20));
+        x.add(new Interval(17, 21));
 
         // Merge overlapping intervals
         x = merge(x);
@@ -90,3 +91,4 @@ class IntervalComparator implements Comparator<Interval>
         return i1.getStart() - i2.getStart();
     }
 }
+
