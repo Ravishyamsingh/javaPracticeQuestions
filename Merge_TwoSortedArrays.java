@@ -15,6 +15,7 @@ public class Merge_TwoSortedArrays {
         array1[1] = 2;
         array1[2] = 3;
         array1[3] = 4;
+        array1[3] = 5;
 
         // Initialize array2
         int[] array2 = {2, 5, 7, 8};
@@ -50,3 +51,4 @@ public class Merge_TwoSortedArrays {
         System.out.println("\nMerged array: " + Arrays.toString(array1));
     }
 }
+
