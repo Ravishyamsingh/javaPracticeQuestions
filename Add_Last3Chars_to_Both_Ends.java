@@ -1,3 +1,7 @@
+
+
+
+import java.util.*;
 import java.util.*;
 public class Add_Last3Chars_to_Both_Ends{
     public static void main(String[] args) {
@@ -19,6 +23,7 @@ public class Add_Last3Chars_to_Both_Ends{
         System.out.println(subpart + string1 + subpart);
     }
 }
+
 
 
 
