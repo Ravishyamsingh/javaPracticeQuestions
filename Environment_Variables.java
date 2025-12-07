@@ -1,3 +1,7 @@
+
+
+
+
 import java.lang.*;
 
 public class Environment_Variables {
@@ -18,4 +22,5 @@ public class Environment_Variables {
         System.out.println(System.getenv("USERNAME"));
     }
 }
+
 
