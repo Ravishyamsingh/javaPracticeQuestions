@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 
 public class Factorial {
@@ -15,4 +18,5 @@ public class Factorial {
         System.out.println("Factorial: " + fact);
     }
 }
+
 
