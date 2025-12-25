@@ -1,7 +1,3 @@
-
-
-
-
 import java.util.Scanner;
 
 public class Collatz_Conjecture_Simulation {
@@ -32,4 +28,5 @@ public class Collatz_Conjecture_Simulation {
         in.close();
     }
 }
+
 
