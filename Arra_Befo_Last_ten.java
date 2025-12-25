@@ -1,7 +1,4 @@
 
-
-
-
 import java.util.Scanner;
 import java.util.*;
 public class Arra_Befo_Last_ten {
@@ -24,5 +21,6 @@ public class Arra_Befo_Last_ten {
         System.out.println("New Array: "+Arrays.toString(new_array));
     }
 }
+
 
 
