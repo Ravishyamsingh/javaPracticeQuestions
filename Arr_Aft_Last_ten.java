@@ -1,7 +1,3 @@
-
-
-
-
 import java.util.*;
 import java.util.*;
 public class Arr_Aft_Last_ten{
@@ -32,6 +28,7 @@ public class Arr_Aft_Last_ten{
         System.out.println("New Array: "+Arrays.toString(new_array));
     }
 }
+
 
 
 
