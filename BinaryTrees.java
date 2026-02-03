@@ -1,7 +1,4 @@
 
-
-
-
 class Node
 {
     int key;
@@ -64,6 +61,7 @@ class BinaryTrees
         tree.print_Postorder();
     }
 }
+
 
 
 
