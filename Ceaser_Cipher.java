@@ -15,6 +15,7 @@ public class Ceaser_Cipher {
             {
                 // Change base to make life easier, and use an
                 // int explicitly to avoid worrying... cast later
+                
                 int x = c - 32;
                 x = (x + shift) % 96;
                 
@@ -26,5 +27,6 @@ public class Ceaser_Cipher {
         return new String(chars);
     }
 }
+
 
 
