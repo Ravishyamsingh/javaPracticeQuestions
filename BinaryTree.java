@@ -11,9 +11,6 @@ class Node
     }
 }
 
-
-
-
 class BinaryTree
 {
     Node root;
@@ -63,5 +60,6 @@ class BinaryTree
         tree.print_Inorder();
     }
 }
+
 
 
