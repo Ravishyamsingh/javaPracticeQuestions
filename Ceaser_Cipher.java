@@ -18,6 +18,8 @@ public class Ceaser_Cipher {
                 
                 int x = c - 32;
                 x = (x + shift) % 96;
+
+                
                 
                 if (x < 0)
                     x += 96; //java modulo can lead to negative values!
@@ -27,6 +29,7 @@ public class Ceaser_Cipher {
         return new String(chars);
     }
 }
+
 
 
 
