@@ -1,4 +1,5 @@
 
+
 import java.lang.*;
 
 public class Code_Execute_Time_Nanosec {
@@ -19,5 +20,6 @@ public class Code_Execute_Time_Nanosec {
         System.out.println("Estimated time (in nanoseconds) to get the first 10 natural numbers: " + estimatedTime);
     }
 }
+
 
 
