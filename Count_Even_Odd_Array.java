@@ -1,7 +1,4 @@
-
-
 import java.util.*;
-
 import java.util.*;
 
 public class Count_Even_Odd_Array {
@@ -32,3 +29,4 @@ public class Count_Even_Odd_Array {
         System.out.printf("\n");
     }
 }
+
