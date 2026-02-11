@@ -1,9 +1,3 @@
-
-
-
-
-
-
 import java.util.Scanner;
 
 public class CheckPowerof4_ {
@@ -36,4 +30,5 @@ public class CheckPowerof4_ {
         System.out.print("\n"); // Print a new line
     }
 }
+
 
