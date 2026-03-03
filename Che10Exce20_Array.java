@@ -1,9 +1,4 @@
-
-
-
-
 import java.util.*;
-
 public class Che10Exce20_Array {
     public static void main(String[] args) {
         int[] array_nums = {10, 11, 10, 30, 45, 20, 33, 53};
@@ -27,4 +22,5 @@ public class Che10Exce20_Array {
         System.out.printf("\n");
     }
 }
+
 
